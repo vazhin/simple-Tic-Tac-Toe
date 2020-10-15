@@ -1,3 +1,3 @@
-### A fun and simple version of Tic Tac Toe. 🦄 VS 👽
+### A fun and simple version of Tic Tac Toe
 
-![](tic-tac-toe.gif)
+<img src="./tic-tac-toe.gif" width="250" height="250"/>
